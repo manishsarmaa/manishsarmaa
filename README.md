@@ -1,7 +1,11 @@
 # 💫 About Me:?
 Hi! My name is Manish Sharma<br>and I'm Computer Engineering Student | Passionate about C++, DSA & OOPS | Ready to Make an Impact in the Tech Industry!
-
-
+{
+  "image": "https://user-images.githubusercontent.com/51192422/119933239-5ca6b080-bfa1-11eb-96c7-b6edb9da4778.png",
+  "issueId": 531,
+  "name": "Ranjit Yadav",
+  "username": "13yadav"
+}
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="manishsarmaa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manishsharma808" target="blank"><img src="https://img.shields.io/twitter/follow/manishsharma808?logo=twitter&style=for-the-badge" alt="manishsharma808" /></a> </p>
