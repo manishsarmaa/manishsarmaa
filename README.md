@@ -1,6 +1,6 @@
 # 💫 About Me:?
 Hi! My name is Manish Sharma<br>and I'm Computer Engineering Student | Passionate about C++, DSA & OOPS | Ready to Make an Impact in the Tech Industry!
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/311381761734186207/">
+<img align="right" alt="Coding" width="400" src="https://pin.it/4t28GkK">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="manishsarmaa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manishsharma808" target="blank"><img src="https://img.shields.io/twitter/follow/manishsharma808?logo=twitter&style=for-the-badge" alt="manishsharma808" /></a> </p>
