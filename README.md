@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Manish Sharma</h1>
-<h3 align="centre">I'm Computer Engineering Student | Passionate about C++, DSA & OOPS | Ready to Make an Impact in the Tech Industry!</h3>
+<h1 align="center">Data Science Enthusiast </h1>
+<h3 align="centre">Passionate about turning data into insights! I have hands-on experience with SQL, Python, Tableau, and Power BI. Currently exploring big data technologies like Apache Spark and Hadoop to enhance my data engineering and analytics skills. Always eager to learn, experiment, and contribute to the data-driven world! 🚀 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="manishsarmaa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manishsharma808" target="blank"><img src="https://img.shields.io/twitter/follow/manishsharma808?logo=twitter&style=for-the-badge" alt="manishsharma808" /></a> </p>
 
-- 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **DSA,OOPS in C++**
+- 🌱 I’m currently learning **Air Byte,Apache Spark,Snow flake,Data Bricks**
 
 - 📫 How to reach me **manishsarmaa@yahoo.com**
 
