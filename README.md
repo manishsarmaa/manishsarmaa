@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manish Sharma</h1>
+![Alt text](header.png)
+
 <h1 align="center">Data Science Enthusiast </h1>
 <h3 align="centre">Passionate about turning data into insights! I have hands-on experience with SQL, Python, Tableau, and Power BI. Currently exploring big data technologies like Apache Spark and Hadoop to enhance my data engineering and analytics skills. Always eager to learn, experiment, and contribute to the data-driven world! 🚀 </h3>
 
