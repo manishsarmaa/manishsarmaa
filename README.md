@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="manishsarmaa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manishsharma808" target="blank"><img src="https://img.shields.io/twitter/follow/manishsharma808?logo=twitter&style=for-the-badge" alt="manishsarmaa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/manishsharma808" target="blank"><img src="https://img.shields.io/twitter/follow/manishsarmaa?logo=twitter&style=for-the-badge" alt="manishsarmaa" /></a> </p>
 
 
 - 🌱 I’m currently learning **Air Byte,Apache Spark,Snow flake,Data Bricks**
