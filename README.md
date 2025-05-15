@@ -7,9 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsarmaa&label=Profile%20views&color=0e75b6&style=flat" alt="manishsarmaa" /> </p>
 
 
-- 🌱 I’m currently learning **Air Byte,Apache Spark,Snow flake,Data Bricks**
+- 🌱 I’m currently learning **Air Byte, Apache Spark, Snowflake, Data Bricks**
 - 📫 How to reach me **manishsarmaa@yahoo.com**
-- 💬 Ask me about **Tableau,Powerbi,Snowflake,AWS**
+- 💬 Ask me about **Tableau, Power, Snowflake, AWS**
+- ⚪ Portfolio : https://manishsarma.netlify.app
   
 
 <h3 align="left">Connect with me:</h3>
